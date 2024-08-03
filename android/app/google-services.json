@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766516080805",
+    "project_id": "ingeniusly-1",
+    "storage_bucket": "ingeniusly-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766516080805:android:22d65b1f1d978a7cf91d4c",
+        "android_client_info": {
+          "package_name": "com.ashesi.ingeniusly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRp4gktK9F7tNU_WMZ4UsSkk4xnKiyEFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766516080805:android:82fdca51715b729ef91d4c",
+        "android_client_info": {
+          "package_name": "com.example.ingeniusly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRp4gktK9F7tNU_WMZ4UsSkk4xnKiyEFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
